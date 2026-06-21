@@ -1,9 +1,17 @@
 
+## Structure
+
+- Game Engine (Godot as default, Unreal 5.8 evaluate)
+- MCP Server (engine related)
+- llama.cpp
+- pi.dev
+- LLM model. Qwen3.x and Gemma4
+
 ## Godot
 
 ### 4.6
  
-- (https://github.com/tomyud1/godot-mcp)[Godot-MCP]
+- [Godot-MCP](https://github.com/tomyud1/godot-mcp)
 
 #### Models
 
